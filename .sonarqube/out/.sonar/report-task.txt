@@ -1,0 +1,6 @@
+projectKey=sonarwebapp
+serverUrl=http://localhost:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9000/dashboard?id=sonarwebapp
+ceTaskId=AX1NGw3XL-6TaNYR39F7
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX1NGw3XL-6TaNYR39F7

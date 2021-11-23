@@ -1,0 +1,8 @@
+﻿C:\Users\user\Desktop\samplewebapp\samplewebapp\Program.cs
+C:\Users\user\Desktop\samplewebapp\samplewebapp\Startup.cs
+C:\Users\user\Desktop\samplewebapp\samplewebapp\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+C:\Users\user\Desktop\samplewebapp\samplewebapp\obj\Debug\net5.0\Samplewebapp.AssemblyInfo.cs
+C:\Users\user\Desktop\samplewebapp\samplewebapp\appsettings.Development.json
+C:\Users\user\Desktop\samplewebapp\samplewebapp\appsettings.json
+C:\Users\user\Desktop\samplewebapp\samplewebapp\myfirstapp.html
+C:\Users\user\Desktop\samplewebapp\samplewebapp\Properties\launchSettings.json
